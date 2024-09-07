@@ -8,7 +8,7 @@ function fanOffKor() {
 }
 
 // call the function
-fanOffKor(); 
+fanOffKor();
 
 
 // function name(){
